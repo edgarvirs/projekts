@@ -2,7 +2,7 @@
 
 ---
 
-Projekta darbs datorium - atslēgu izsniegšanas sistēma 🐠 🉑 :u5408:
+Projekta darbs  - atslēgu izsniegšanas sistēma 
 
 ---
 ## Programmas funkcijas:
